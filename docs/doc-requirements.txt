@@ -3,3 +3,4 @@ sphinx_copybutton
 sphinx_rtd_theme
 jupytext
 myst_parser
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
